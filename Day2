@@ -1,0 +1,17 @@
+# String
+
+print("Hello"[4])
+
+# Integer
+
+print("123" + "456")
+print(321 + 675)
+
+print(123_564_765)
+
+# Float
+
+print(2.3344)
+
+# Boolean
+print(True)
